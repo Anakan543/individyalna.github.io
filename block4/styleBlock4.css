@@ -1,0 +1,71 @@
+.mains{
+  height: 939px;
+      width: 740px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+.buttons{
+  width: 100px;
+  height: 100px;
+  background-color: grey;
+  border:0px solid black;
+  margin: 2px;
+  color: white;
+  border-radius: 10px;
+}
+.game{
+  width: 609px;
+  height: 800px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.name{
+  font-size: 34px;
+  color: black;
+  margin-top: -5px;
+  margin-bottom: -5px;
+}
+.try, .try1{
+  color: white;
+}
+.try{
+  margin-bottom: -5px;
+}
+.rows{
+  width: 552px;
+  height: 359px;
+  background-color: GREY;
+  display: flex;
+}
+.picture, .picture1, .picture2, .picture3, .picture4, .picture5{
+  margin: 10px;
+  width: 220px;
+  height: 243px;
+  background-color: #e4986c;
+  background-size: 100%;
+  background-repeat:no-repeat;
+}
+.picture1{
+  background-image: url(picture/7.png);
+}
+.picture2{
+  background-image: url(picture/banan.png);
+  background-size: 117% 100%;
+  background-position: -18px 0px;
+}
+.picture3{
+  background-image: url(picture/bigWinn.png);
+  background-size: 100% 110%;
+}
+.picture4{
+  background-image: url(picture/chery.png);
+  background-size: 100% 100%;
+}
+.picture5{
+  background-image: url(picture/lemon.png);
+  background-size: 100% 100%;
+}

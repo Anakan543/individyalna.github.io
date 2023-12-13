@@ -1,0 +1,140 @@
+
+.user, .generate, .computer{
+  width: 251px;
+  height: 352px;
+  border: 2px black solid;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  background-color: black;
+  border:3px solid #9FF4E8;
+  border-radius: 10px;
+  margin: 2px;
+
+}
+.text{
+  font-size: 25px;
+  font-weight: bold;
+  color: #F1BDAA;
+}
+.value{
+  width: 40%;
+  height: 20px;
+  background-color: #9FF4E8;
+  border-radius: 40px;
+  text-align:center;
+}
+.button{
+  width: 85px;
+  height: 34px;
+  border-radius: 8px;
+  margin: 3px;
+  background-color: #9D654D;
+  color: #5EC199;
+}
+.pictures{
+  margin: 10px;
+  width: 200px;
+  height: 400px;
+  background-image: url(picture/84140.png);
+  background-size: 102%;
+background-repeat: no-repeat;
+}
+.generate{
+  text-align: center;
+}
+.picture{
+  margin: 10px;
+  width: 200px;
+  height: 400px;
+  background-image: url(picture/karta6.png);
+  background-repeat: no-repeat;
+  background-size: 407%;
+  background-position: -5px, center;
+}
+.picture7{
+  margin: 10px;
+  width: 200px;
+  height: 400px;
+  background-image: url(picture/karta7.png);
+  background-repeat: no-repeat;
+  background-size: 407%;
+  background-position: -5px, center;
+}
+.picture8{
+  margin: 10px;
+  width: 200px;
+  height: 400px;
+  background-image: url(picture/karta8.png);
+  background-repeat: no-repeat;
+  background-size: 407%;
+  background-position: -5px, center;
+}
+.picture9{
+  margin: 10px;
+  width: 200px;
+  height: 400px;
+  background-image: url(picture/karta9.png);
+  background-repeat: no-repeat;
+  background-size: 407%;
+  background-position: -5px, center;
+}
+.picture10{
+  margin: 10px;
+  width: 200px;
+  height: 400px;
+  background-image: url(picture/karta10.png);
+  background-repeat: no-repeat;
+  background-size: 407%;
+  background-position: -5px, center;
+}
+.picture11{
+  margin: 10px;
+  width: 200px;
+  height: 400px;
+  background-image: url(picture/karta11.png);
+  background-repeat: no-repeat;
+  background-size: 407%;
+  background-position: -5px, center;
+}
+.picture12{
+  margin: 10px;
+  width: 200px;
+  height: 400px;
+  background-image: url(picture/karta12.png);
+  background-repeat: no-repeat;
+  background-size: 407%;
+  background-position: -5px, center;
+}
+.picture13{
+  margin: 10px;
+  width: 200px;
+  height: 400px;
+  background-image: url(picture/karta13.png);
+  background-repeat: no-repeat;
+  background-size: 407%;
+  background-position: -5px, center;
+}
+.picture14{
+  margin: 10px;
+  width: 200px;
+  height: 400px;
+  background-image: url(picture/karta14.png);
+  background-repeat: no-repeat;
+  background-size: 407%;
+  background-position: -5px, center;
+}
+.content{
+  width: 800px;
+  height: 620px;
+  border-radius: 20px;
+  background-color: rgba(83, 117, 166, 0.6);
+  backdrop-filter: blur(40px);
+  margin-bottom: 200px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  flex-wrap: wrap;
+}

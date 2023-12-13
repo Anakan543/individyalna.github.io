@@ -1,0 +1,48 @@
+
+.mainSide{
+  display: flex;
+  height: 800px;
+  width: 600px;
+  justify-content:center;
+	align-items: center;
+}
+.button{
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  align-items: center;
+  width: 150px;
+  height: 300px;
+}
+.pointWin, .numbers{
+  height: 50px;
+  width: 130px;
+  margin: 10px;
+  border-radius: 14px;
+  border:solid #FD974F 2px;
+  font-size: 25px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.sideUser, .sideComputer{
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  align-items: center;
+  width: 200px;
+  height: 300px;
+}
+.name{
+  font-size: 30px;
+  color:#C60000 ;
+}
+button{
+  height: 60px;
+  width: 100px;
+  border-radius: 15px;
+  background-color: #805A3B;
+  border:solid #FD974F 2px;
+  color: #FEF2E4;
+  margin: 5px;
+}
